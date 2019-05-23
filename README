@@ -1,0 +1,4 @@
+Given a matrix, this program uses Floyd's algorithm to print the shortest path.
+It also prints the preliminary matrices used by Floyd's algorithm to get to the final answer. 
+
+The main method already has two matrices already hard coded.
